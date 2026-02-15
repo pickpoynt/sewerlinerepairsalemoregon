@@ -10,13 +10,13 @@ const Contact = () => {
             <div>
               <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-emerald-100 text-emerald-700 mb-6 font-bold uppercase tracking-wider text-sm shadow-sm">
                 <Hammer className="w-4 h-4" />
-                WEST SENECA PLUMBING PROS
+                QUEENS EMERGENCY PLUMBING PROS
               </div>
               <h2 className="text-4xl md:text-5xl font-heading font-bold text-slate-900 mb-6 leading-tight uppercase tracking-tight">
-                Schedule <span className="text-emerald-600">West Seneca Service</span>
+                Schedule <span className="text-emerald-600">Queens Emergency Service</span>
               </h2>
               <p className="text-xl text-slate-600 mb-10 leading-relaxed font-medium italic">
-                Protect your West Seneca property from plumbing failures. Our expert diagnostic team provides precise, professional plumbing solutions across Western New York.
+                Protect your Queens property from devastating plumbing failures. Our specialized emergency team provides rapid, professional solutions throughout NYC.
               </p>
 
               <div className="space-y-8">
@@ -48,7 +48,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="text-sm font-bold text-emerald-600 uppercase tracking-widest mb-1">Service Area</p>
-                    <p className="text-xl font-bold text-slate-900">West Seneca & Western NY</p>
+                    <p className="text-xl font-bold text-slate-900">Queens & All NYC Boroughs</p>
                   </div>
                 </div>
               </div>
@@ -97,7 +97,7 @@ const Contact = () => {
                   Request Service
                 </Button>
                 <p className="text-center text-slate-500 text-sm italic font-medium">
-                  *24/7 Priority diagnostics for West Seneca plumbing emergencies
+                  *24/7 Priority dispatch for Queens emergency plumbing calls
                 </p>
               </form>
             </div>

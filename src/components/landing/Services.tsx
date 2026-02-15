@@ -9,7 +9,7 @@ const Services = () => {
             Comprehensive <span className="text-emerald-600">Plumbing Services</span>
           </h2>
           <p className="text-xl text-slate-600 font-medium italic">
-            West Seneca homeowners trust us for expert plumbing diagnostics and precision repair. We provide master-licensed care for Western New York.
+            Queens residents trust our rapid 24/7 response for expert emergency diagnostics and precision repair. We provide master-licensed care for all NYC boroughs.
           </p>
         </div>
 

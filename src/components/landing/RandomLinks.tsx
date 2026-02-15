@@ -20,6 +20,10 @@ const links = [
   {
     name: "Plumber Tulsa OK",
     url: "https://plumbertulsaok.vercel.app/"
+  },
+  {
+    name: "Plumber West Seneca NY",
+    url: "https://plumberwestsenecany.vercel.app/"
   }
 ];
 
